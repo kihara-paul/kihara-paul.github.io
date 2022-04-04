@@ -1,0 +1,16 @@
+.navbar-expand-sm {
+    margin-top: 0 !important;
+}
+
+.nav-link {
+    font-size: 1rem !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main {
+    min-height: 600px;
+}
+
+.width100 {
+    max-width: 100% !important;
+}
